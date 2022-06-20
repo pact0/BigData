@@ -1,0 +1,17 @@
+# Modelowanie danych
+Modelowanie danych jest to proces tworzenia oraz analizaowania schematow i podsumowania informacji zebranych w hurtowni danych
+
+# Cardinality
+Cardinality okresla czestosc wystepowania danych - wysoka wartosc oznacza rzadkie wystepowanie
+
+# Denormalizacja
+Dodanie duplikatow w bazie tak aby uniknac czasochlonnych joinow
+
+# Normalizacja
+Usuniecie duplikatow i powtarzajacych sie danych
+
+# Data Mart
+Data warehouse zorientowany w obrebie jednego tematu
+
+# Kostka OLAP
+Pozwala na efektywna analize - wielowymiarowe arkusze kalkulacyjne a nie relacyjna baza danych
